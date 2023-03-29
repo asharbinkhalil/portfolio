@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/asharbinkhalil/portfolio/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/asharbinkhalil/portfolio/blob/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   brittanychiang.com - v4
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/asharbinkhalil/portfolio/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/asharbinkhalil/portfolio/blob/master/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
