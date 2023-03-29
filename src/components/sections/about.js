@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'C/C++',
+    'Python',
+    'Networking',
+    'OSINT',
+    'REACT JS',
+    'Firebase',
+    'Autopsy',
+    'Metasploit',
+    'Belkasoft',
+    'SQL',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,12 +146,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              As a cybersecurity enthusiast with a passion for digital forensics and malware
-              analysis, I am committed to becoming an expert in this rapidly evolving field. With
-              experience in forensics, OSINT, and penetration testing, I have developed a deep
-              understanding of cybersecurity threats and solutions. I have also obtained several
-              industry certifications, including the Cyber Security Specialization(University of
-              Maryland) and Google IT Automation Professional Certificate.
+              I'm a cybersecurity enthusiast with a passion for digital forensics, malware analysis
+              and secure coding. With experience in forensics, OSINT, and penetration testing, I
+              have developed a deep understanding of cybersecurity threats and solutions. I have
+              several professional certifications in my bag. <br></br>
+              Cyber Security Specialization(University of Maryland) <br></br> Google IT Automation
+              Professional Certificate.
               <br></br>
               <br></br>I recently completed a project in digital forensics where I analyzed evidence
               to identify the source of a cyber attack. I also have experience in secure software
@@ -152,7 +163,7 @@ const About = () => {
               advancement of the field.
             </p>
           </div>
-
+          <p>Here are a few technologies I’ve been working with/learning about recently:</p>
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>
