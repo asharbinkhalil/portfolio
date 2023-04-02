@@ -65,9 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Cyber Security engineer specializing in building (and occasionally designing) red team
-        tools. I recreationally do 🛰️ OSINT, SOCMINT, GE🌐INT and IMINT. Currently, I’m focused on
-        building Machine Learning based OSINT tools.
+        I’m a final year Cyber Security UnderGrad. I build red team tools. I recreationally do 🛰️
+        OSINT, SOCMINT, GE🌐INT and IMINT. Currently, I’m focused on building Machine Learning based
+        OSINT tools.
       </p>
     </>
   );
