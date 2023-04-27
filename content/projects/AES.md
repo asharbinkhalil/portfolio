@@ -9,4 +9,4 @@ company: 'FAST'
 showInProjects: true
 ---
 
-AES implementation in ECB mode. All variants 128,192,256.
+AES implementation in ECB mode. All variants 128,192,256..
