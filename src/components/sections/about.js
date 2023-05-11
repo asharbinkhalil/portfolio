@@ -146,23 +146,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm a cybersecurity enthusiast with a passion for digital forensics, malware analysis
-              and secure coding. With experience in forensics, OSINT, and penetration testing, I
-              have developed a deep understanding of cybersecurity threats and solutions. I have
-              several professional certifications in my bag. <br></br>
-              Cyber Security Specialization(University of Maryland) <br></br> Google IT Automation
-              Professional Certificate.
+              I'm a final-year cybersecurity student at FAST NUCES. With a passion for digital
+              forensics, malware analysis, and Secure Software Development, I am striving to be an
+              expert in this field.
+              <br></br>I have several professional certifications in my bag. <br></br>
+              1. Cyber Security Specialization(University of Maryland) <br></br> 2. Google IT
+              Automation Professional Certificate.<br></br> 3. Python for Cyber Security
               <br></br>
-              <br></br>I recently completed a project in digital forensics where I analyzed evidence
-              to identify the source of a cyber attack. I also have experience in secure software
-              development and have worked on projects using Python and Node.js.
-              <br></br>
-              <br></br>I am actively seeking job/internship opportunities in the cybersecurity
-              industry where I can apply my skills and knowledge to protect organizations from cyber
-              threats. My long-term goal is to become a cybersecurity expert and contribute to the
-              advancement of the field.
+              <br></br> I have experience in forensics, OSINT, and penetration testing projects. I
+              also have experience in secure software development and have worked on projects using
+              Python and Node.js. I am actively seeking job/internship opportunities in the
+              cybersecurity industry.
             </p>
           </div>
+          <br></br>
           <p>Here are a few technologies I’ve been working with/learning about recently:</p>
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
