@@ -11,4 +11,4 @@ company: 'FAST'
 showInProjects: true
 ---
 
-Cryptography Course Practice. Implemented CAESER CIPHER, AFFINE CIPHER and PLAYFAIR CIPHER as a hobby of coding cryptography.
+Cryptography Course Practice. Implemented CAESER , AFFINE and PLAYFAIR CIPHER etc as a hobby of coding cryptography.

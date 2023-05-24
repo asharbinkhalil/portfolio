@@ -61,13 +61,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Ashar Khalil.</h2>;
-  const three = <h3 className="big-heading">I love to hack things.</h3>;
+  const three = <h3 className="big-heading">I love to hack things (legally).</h3>;
   const four = (
     <>
       <p>
-        I’m a final year Cyber Security UnderGrad. I build red team tools. I recreationally do 🛰️
+        I’m a final year Cyber Security UnderGrad. I build red team tools and recreationally do 🛰️
         OSINT, SOCMINT, GE🌐INT and IMINT. Currently, I’m focused on building Machine Learning based
-        OSINT tools.
+        security tools.
       </p>
     </>
   );

@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import styled from 'styled-components';
-import { srConfig, email } from '@config';
+import { srConfig } from '@config';
 import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
@@ -35,7 +35,7 @@ const StyledContactSection = styled.section`
     font-size: clamp(40px, 5vw, 60px);
   }
 
-  .email-link {
+  .linktree-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
   }
@@ -64,8 +64,8 @@ const Contact = () => {
         question or just want to say hi, I’ll try my best to get back to you!
       </p>
 
-      <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+      <a className="linktree-link" href={`https://linktr.ee/asharbinkhalil`}>
+        Contact me at your ease.
       </a>
     </StyledContactSection>
   );

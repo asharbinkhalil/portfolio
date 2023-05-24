@@ -2,19 +2,12 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/asharbinkhalil/portfolio/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  www.ashar.rocks
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  Portfolio site built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a> at <a href="https://www.ashar.rocks/" target="_blank">ashar.rocks</a> 
 </p>
 <p align="center">
-  Previous iterations:
-  <a href="https://github.com/asharbinkhalil/portfolio" target="_blank">v1</a>,
-  <a href="https://github.com/asharbinkhalil/portfolio" target="_blank">v2</a>,
-  <a href="https://github.com/asharbinkhalil/portfolio" target="_blank">v3</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
   </a>
 </p>
@@ -73,3 +66,5 @@
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+
+### Design Inspired by <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a>

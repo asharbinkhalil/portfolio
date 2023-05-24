@@ -126,16 +126,22 @@ const About = () => {
   }, []);
 
   const skills = [
-    'C/C++',
-    'Python',
-    'Networking',
+    'NIST Risk Management',
+    'CISSP Security domains',
+    'Azure',
+    'Google Cloud',
+    'Ghidra / IDA PRO',
     'OSINT',
     'REACT JS',
     'Firebase',
+    'SQL',
+    'JavaScript',
+    'Git',
+    'Linux',
+    'Wireshark',
     'Autopsy',
     'Metasploit',
-    'Belkasoft',
-    'SQL',
+    'C/C++ , Python, Java',
   ];
 
   return (
@@ -146,21 +152,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm a final-year cybersecurity student at FAST NUCES. With a passion for digital
-              forensics, malware analysis, and Secure Software Development, I am striving to be an
-              expert in this field.
+              I'm a final-year cybersecurity student at FAST NUCES. With a passion for PENETRATION
+              TESTING, DFIR, MALWARE ANALYSIS, and Secure Software Development, I am striving to be
+              an expert in this field.
               <br></br>I have several professional certifications in my bag. <br></br>
               1. Cyber Security Specialization(University of Maryland) <br></br> 2. Google IT
               Automation Professional Certificate.<br></br> 3. Python for Cyber Security
               <br></br>
-              <br></br> I have experience in forensics, OSINT, and penetration testing projects. I
+              <br></br> I have experience in FORENSICS, OSINT, and PENETRATION TESTING projects. I
               also have experience in secure software development and have worked on projects using
               Python and Node.js. I am actively seeking job/internship opportunities in the
               cybersecurity industry.
             </p>
           </div>
           <br></br>
-          <p>Here are a few technologies I’ve been working with/learning about recently:</p>
+          <p>
+            Here are a few technologies I’ve been working with/learning about recently, I'm
+            proficient in all of them
+          </p>
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>

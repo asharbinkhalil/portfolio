@@ -1,5 +1,5 @@
 ---
-date: '2020-01-10'
+date: '2020-09-16'
 title: 'Advanced Encryption Standard'
 github: 'https://github.com/asharbinkhalil/aes'
 tech:
