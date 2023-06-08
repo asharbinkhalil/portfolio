@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/asharbinkhalil/portfolio/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  www.ashar.rocks
+  ashar.rocks
 </h1>
 <p align="center">
   Portfolio site built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a> at <a href="https://www.ashar.rocks/" target="_blank">ashar.rocks</a> 
